@@ -9,4 +9,4 @@ My team IUBAT_ODD_CODERS has participated  in this contest.
 - Nazmul Kabir Tushar
 - Md Maruf Ahmed
 ```
- We come up 3 solution within the entire contest time. Also we try to solve other problem after the contest time.
+ We come up with 3 solution within the entire contest time. We also try to solve other problem after the contest time.

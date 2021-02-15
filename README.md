@@ -1,5 +1,7 @@
 # IUBAT-CSE-Battle-of-Intellects-Spring-2021
-The department of Computer Science and Engineering of IUBAT organized a programming contest every semester. <br/>
+A programming contest organized by The department of Computer Science and Engineering of IUBAT. 
+<br/>
+<br/>
 My team IUBAT_ODD_CODERS has participated  in this contest.
 ### Team Members:
 ```
